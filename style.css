@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.nav-mx{
-    max-width:1400px;
+.container-fluid{
+    max-width:1150px;
+    width:100%;
+}
+.carousel-caption p{
+    max-width:455px;
 }
